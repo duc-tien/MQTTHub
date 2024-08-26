@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/MQTTbyTIEN/apis/MQTTbyTIEN",
+      "type": "apis.azure"
+    }
+  }
+}
